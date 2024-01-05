@@ -11,6 +11,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 
 .web-title {
@@ -46,5 +47,19 @@ nav a {
     font-weight: 70px;
     color: white;
     padding: 15px 35px;
+
+}
+.head{
+background-color: #fff8ff;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-content: center;
+}
+.banner .pfp{
+    width: 450px;
+}
+.banner-content{
 
 }
