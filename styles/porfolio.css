@@ -157,3 +157,14 @@ nav a {
     font-weight: 700;
 
 }
+.resume-item-description , .resume-item-institute   {
+    color: #757575;
+}
+.resume-item-title{
+    color: #978d8d;
+    font-size: 25px;
+    font-weight: 700;
+}
+.cv_btn{
+    text-align: center;
+}
