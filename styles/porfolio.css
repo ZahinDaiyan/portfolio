@@ -188,7 +188,7 @@ nav a {
 }
 .footer{
     display: flex;
-    gap 100px;
+    gap 100 px;
     background: #FFF8F3;
     margin-top: 100px;
     padding: 130px 200px;
